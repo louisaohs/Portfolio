@@ -15,8 +15,8 @@
         <div class="cards" data-aos="fade-up" data-aos-duration="1000">
           <div class="sub-cards-bg">
             <h3 class="title-cards-about">Mes stacks ?</h3>
-            <p class="text-cards-about">
-            <span class="display: block;">Tout varie.</span> Dans le cadre de ma formation, je développe sur tout type de technologies (front-end et back-end), j'ai appris ainsi à m'adapter à toute situation.<span style="margin-bottom: 12px;">Mes préférences sont : <span class="highlight">React</span>, <span class="highlight">la stack MERN</span>, et <span class="highlight">VueJS</span>.</span><span style="display: block; margin-bottom: 10px;">Ce qui me plait le plus dans cet apprentissage au cours de ces dix mois intensifs a été : toujours apprendre de nouvelles technologies, s'adapter aux différents langages.</span><span style="display: block;">Ce porfolio a été développé en <span class="highlight">VueJS</span>, j'ai moi-même confectionné avec de nombreuses recherches le design de celui-ci en m'adaptant avec du CSS et des librairies.</span>
+            <p class="text-cards-about-3">
+            <span class="display: block;">Tout varie.</span> Dans le cadre de ma formation, je développe sur tout type de technologies (front-end et back-end), j'ai appris ainsi à m'adapter à toute situation.<span style="margin-bottom: 12px;"> Mes préférences sont : <span class="highlight">React</span>, <span class="highlight">la stack MERN</span>, et <span class="highlight">VueJS</span>.</span><span style="display: block; margin-bottom: 10px;">Ce qui me plait le plus dans cet apprentissage au cours de ces dix mois intensifs a été : toujours apprendre de nouvelles technologies, s'adapter aux différents langages.</span><span style="display: block;">Ce porfolio a été développé en <span class="highlight">VueJS</span>, j'ai moi-même confectionné avec de nombreuses recherches le design de celui-ci en m'adaptant avec du CSS et des librairies.</span>
             </p>
           </div>
         </div>
@@ -139,12 +139,18 @@ export default {
 }
 
 .text-cards-about-1 {
-  height: 552px;
+  height: 560px;
   font-size: 16px;
   text-align: justify;
 }
 
 .text-cards-about-2 {
+  height: 552px;
+  font-size: 16px;
+  text-align: justify;
+}
+
+.text-cards-about-3 {
   height: 552px;
   font-size: 16px;
   text-align: justify;
