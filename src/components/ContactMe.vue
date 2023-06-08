@@ -29,7 +29,7 @@
             <font-awesome-icon icon="location-dot" /> Paris, Île-de-France
           </p>
           <div class="social-media">
-            <a href="https://github.com/louohs"
+            <a href="https://github.com/louisaohs"
               ><i class="fab fa-github"></i
             ></a>
             <a href="https://www.linkedin.com/in/louisa-ohs-5293b0240"
