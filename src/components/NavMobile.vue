@@ -152,7 +152,7 @@ export default {
       cursor: pointer;
 
       &:hover {
-        color: #93c08c;
+        color: #A3B49a;
         transition: all 0.4s ease;
       }
     }

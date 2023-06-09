@@ -326,7 +326,7 @@ export default {
 .title-contact {
   font-weight: bold;
   text-transform: uppercase;
-  color: #93c08c;
+  color: #A3B49a;
   letter-spacing: 3px;
   text-decoration: underline;
   text-decoration-color: #dce3d4;
@@ -383,7 +383,7 @@ a {
   border: none;
   letter-spacing: 2px;
   font-family: "Poppins", sans-serif;
-  border: 1px solid #93c08c;
+  border: 1px solid #A3B49a;
   background-color: #dce3d4;
   width: 100%;
 }
@@ -403,7 +403,7 @@ a {
 
 .custom-button-cv:hover {
   transition: color 0.4s ease;
-  color: #93c08c;
+  color: #A3B49a;
 }
 
 .input-button {
@@ -420,7 +420,7 @@ a {
 
 .input-button:hover {
   transition: color 0.4s ease;
-  color: #93c08c;
+  color: #A3B49a;
 }
 
 textarea {

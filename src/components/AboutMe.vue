@@ -77,7 +77,7 @@ export default {
 .sub-cards-bg {
   padding: 1rem;
   border-radius: 10px;
-  background-color: #93c08c;
+  background-color: #A3B49a;
   color: white;
 }
 
@@ -103,7 +103,7 @@ export default {
 .title-about {
   font-weight: bold;
   text-transform: uppercase;
-  color: #93c08c;
+  color: #A3B49a;
   letter-spacing: 3px;
   text-decoration: underline;
   text-decoration-color: #dce3d4;

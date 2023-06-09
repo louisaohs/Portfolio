@@ -181,7 +181,7 @@ export default {
       this.mode = this.mode === "dark" ? "light" : "dark";
 
       const container = document.querySelector(".container-home");
-      container.style.background = this.mode === "dark" ? "#0a0616" : "#93c08c";
+      container.style.background = this.mode === "dark" ? "#0a0616" : "#A3B49a";
 
       localStorage.setItem("mode", this.mode);
     },
@@ -224,7 +224,7 @@ export default {
 body {
   margin: 0;
   padding: 0;
-  background-color: #abcea6;
+  background-color: #A3B49a;
   font-family: "Poppins", sans-serif;
   font-weight: bold;
   overflow-y: scroll;
@@ -243,7 +243,7 @@ body {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #93c08c;
+  background: #A3B49a;
   border-radius: 15px;
 }
 
@@ -335,7 +335,7 @@ body {
   justify-content: center;
   width: 100%;
   height: 80vh;
-  background-color: #93c08c;
+  background-color: #A3B49a;
 }
 
 .infos-home {
@@ -436,7 +436,7 @@ footer {
   display: flex;
   justify-content: center;
   color: white;
-  background-color: #93c08c;
+  background-color: #A3B49a;
 }
 
 .color-name {

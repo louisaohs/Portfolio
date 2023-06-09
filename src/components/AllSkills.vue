@@ -319,7 +319,7 @@ export default {
   width: 200px;
   height: 200px;
   box-shadow: 0 0 10px rgb(179, 179, 179);
-  background-image: linear-gradient(#f2f2f2, #cce7c8);
+  background-image: linear-gradient(#f2f2f2, #A3B49a);
   padding: 20px;
 }
 
@@ -336,7 +336,7 @@ export default {
 .title-skills {
   font-weight: bold;
   text-transform: uppercase;
-  color: #93c08c;
+  color: #A3B49a;
   letter-spacing: 3px;
   text-decoration: underline;
   text-decoration-color: #dce3d4;

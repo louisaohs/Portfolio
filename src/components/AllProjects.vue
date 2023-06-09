@@ -146,7 +146,7 @@ export default {
 .title-projects {
   font-weight: bold;
   text-transform: uppercase;
-  color: #93c08c;
+  color: #A3B49a;
   letter-spacing: 3px;
   text-decoration: underline;
   text-decoration-color: #dce3d4;
