@@ -5,7 +5,7 @@
         <li class="title-header" :class="{ rotate: isRotating }">
           <img
             class="image-size-logo"
-            src="~@/assets/images/logo-ohs-2.png"
+            src="~@/assets/images/logo-ohs.png"
             alt="My Image"
             @click="startRotation"
           />
@@ -63,7 +63,6 @@ export default {
     this.handleResize();
   },
   methods: {
-
     handleScroll() {
       if (window.pageYOffset > 0) {
         if (this.view.topOfPage) this.view.topOfPage = false;
@@ -71,7 +70,7 @@ export default {
         if (!this.view.topOfPage) this.view.topOfPage = true;
       }
     },
-    
+
     handleResize() {
       this.isSmallScreen = window.innerWidth < 1650;
     },

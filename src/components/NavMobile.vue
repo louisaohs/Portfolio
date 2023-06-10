@@ -4,7 +4,7 @@
       <li :class="{ scroll: !view.topOfPage, rotate: isRotating }">
         <img
           class="image-size-logo"
-          src="~@/assets/images/logo-ohs-2.png"
+          src="~@/assets/images/logo-ohs.png"
           alt="My Image"
           @click="startClickRotating"
         />
