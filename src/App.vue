@@ -40,11 +40,11 @@
                     }"
                   >
                     <div class="sub-home">
-                      <img
+                      <!-- <img
                         v-bind:class="['image']"
                         :src="imagePath"
                         alt="My Image"
-                      />
+                      /> -->
                       <div class="infos-home">
                         <h1 class="title-name fade">Louisa Ohs</h1>
                         <p class="title-work">Web developer</p>
@@ -135,7 +135,7 @@ import AllSkills from "@/components/AllSkills.vue";
 import AllProjects from "@/components/AllProjects.vue";
 import ContactMe from "@/components/ContactMe.vue";
 import NavMobile from "@/components/NavMobile.vue";
-import myImage from "@/assets/images/louisa.png";
+// import myImage from "@/assets/images/louisa.png";
 
 export default {
   components: {
@@ -157,7 +157,7 @@ export default {
       isIconCross: false,
       showButton: true,
       isLoading: true,
-      imagePath: myImage,
+      // imagePath: myImage,
       stars: [],
     };
   },
